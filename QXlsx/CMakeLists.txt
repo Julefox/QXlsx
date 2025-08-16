@@ -2,6 +2,8 @@
 
 cmake_minimum_required(VERSION 3.16)
 
+set(CMAKE_PREFIX_PATH "C:/src/Qt/6.6.1/msvc2019_64")
+
 project(QXlsx
     VERSION 1.4.4
     LANGUAGES CXX
